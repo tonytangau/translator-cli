@@ -1,0 +1,20 @@
+{
+  "name": "term-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "tt": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.1",
+    "install": "^0.13.0",
+    "npm": "^7.19.1"
+  }
+}
